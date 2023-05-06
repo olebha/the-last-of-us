@@ -1,0 +1,37 @@
+@media(max-width:800px) {
+    .container {
+        width: 100%;
+    }
+
+    html {
+        font-size: 20px;
+    }
+
+    .ex-content {
+        width: 90%;
+        margin: auto;
+    }
+
+    .experience h2 {
+        margin-top: -100px;
+    }
+    .experience p{
+        margin-top: 120px;
+    }
+    .cast-content{
+        flex-direction: column;
+    }
+    .cast-card{
+        width: 90%;
+        margin: auto;
+    }
+    .bulding-content{
+        flex-direction: column;
+
+    }
+    .video-card{
+        width: 90%;
+        margin-bottom: 10px;
+    }
+
+}
